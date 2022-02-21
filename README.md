@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pooria Ahmadi</h1>
 <h3 align="center">In ❤ with programming</h3>
 
-- 🔭 I’m currently working on [Pastep](https://github.com/pastep)
+- 🔭 I’m currently working on [Pennic](https://github.com/pooriaahmadi/pennic)
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently learning **ML**
 
 - 📫 How to reach me **pooriababak444@gmail.com**
 
